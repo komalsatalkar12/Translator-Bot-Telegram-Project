@@ -1,2 +1,2 @@
 # Translator-Bot-Telegram-Project
-Telegram bot for translating text across languages.
+This is Telegram Bot for Translating text across languages.
